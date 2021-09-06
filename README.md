@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am an associate professor with South China University of Technology. I am working on various management, system planning and design techniques to improve the energy efficiency of rail transportation systems and other electrified transportation.
+
+I'm currently teaching year one course Introduction to Engienering- Technical Communications and year two course Introdution to Dynamics and Vibrations.  
 
 <!--
 **lushaofeng/lushaofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
